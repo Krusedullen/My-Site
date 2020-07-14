@@ -1,0 +1,58 @@
+body{
+  font-size: 1rem;
+  background-image: linear-gradient(190deg,#f0ece3, #dfd3c3, #dfd3c3, #c7b198);
+
+}
+
+h2, h3 {
+  font-family: "Amiri", cursive;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: .5vw;
+  width: 90vw;
+  color: #596e79;
+  margin-top: 2rem;
+}
+
+/**** Nav and head section ****/
+
+.jumbotron {
+  background-color: transparent;
+  padding: 1rem auto 3rem;
+  margin-bottom: 0;
+}
+
+.jumbotron h1 {
+  font-family: "Amiri", cursive;
+  font-size: 11vw;
+}
+
+.jumbotron h2 {
+  font-family: 'Damion', cursive;
+  font-size: 6vw;
+}
+
+/* ***about section*** */
+.about-section {
+  position: relative;
+  /* background-color: pink; */
+  padding: 0 2rem 1rem;
+
+
+}
+
+.about-img{
+  display: block;
+  margin: 1rem auto 2rem;
+  border-radius: 50%;
+}
+
+/* links section */
+
+.link{
+
+  color: #596e79;
+  font-size: 3vw
+}

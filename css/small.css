@@ -1,0 +1,25 @@
+@media only screen and (min-width: 576px) {
+  body {
+    background-color: linear-gradient(#c7b198, #f0ece3) ;
+  }
+
+
+
+/* header og nav section */
+
+
+
+
+/* about me section */
+.about-me-paragraph{
+  display: inline-block;
+}
+
+
+
+
+
+
+
+
+}
