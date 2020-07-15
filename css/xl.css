@@ -2,24 +2,24 @@
 
   body{
     padding: 5vw 20vw;
-
   }
 
 
   .jumbotron{
     padding: 0;
+    height: 250px;
   }
 
   .jumbotron h1 {
-    font-size: 6vw;
+    font-size: 5vw;
   }
 
   .jumbotron h2 {
-    font-size: 4vw;
+    font-size: 3vw;
   }
 
   hr{
-    margin-right: 50vw;
+    width: 100%;
   }
 
 
