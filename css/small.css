@@ -1,6 +1,7 @@
 @media only screen and (min-width: 576px) {
   body {
-    background-color: linear-gradient(#c7b198, #f0ece3) ;
+    background-color: linear-gradient(#c7b198, #f0ece3);
+    text-align: left;
   }
 
 
@@ -15,9 +16,19 @@
   display: inline-block;
 }
 
+.jumbotron h1 {
+  font-family: "Amiri", cursive;
+  font-size: 9vw;
+}
 
+.jumbotron h2 {
+  font-family: 'Damion', cursive;
+  font-size: 5vw;
+}
 
-
+.link-div{
+  text-align: center;
+}
 
 
 

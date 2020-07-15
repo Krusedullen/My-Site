@@ -1,4 +1,5 @@
 body{
+  text-align: center;
   font-size: 1rem;
   background-image: linear-gradient(190deg,#f0ece3, #dfd3c3, #dfd3c3, #c7b198);
 
@@ -20,8 +21,9 @@ hr {
 
 .jumbotron {
   background-color: transparent;
-  padding: 1rem auto 3rem;
+  padding: 2rem 0 1rem;
   margin-bottom: 0;
+
 }
 
 .jumbotron h1 {
@@ -31,7 +33,7 @@ hr {
 
 .jumbotron h2 {
   font-family: 'Damion', cursive;
-  font-size: 6vw;
+  font-size: 7vw;
 }
 
 /* ***about section*** */
@@ -40,7 +42,10 @@ hr {
   /* background-color: pink; */
   padding: 0 2rem 1rem;
 
+}
 
+.about-me-paragraph{
+  text-align: left;
 }
 
 .about-img{
@@ -52,7 +57,7 @@ hr {
 /* links section */
 
 .link{
-
+  margin: 2vw 4vw;
   color: #596e79;
-  font-size: 3vw
+  font-size: 4vw
 }
