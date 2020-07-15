@@ -1,13 +1,29 @@
 @media screen and (min-width: 1200px ) {
 
   body{
-    padding: 5vw 10vw;
+    padding: 5vw 20vw;
 
   }
 
 
+  .jumbotron{
+    padding: 0;
+  }
+
+  .jumbotron h1 {
+    font-size: 6vw;
+  }
+
+  .jumbotron h2 {
+    font-size: 4vw;
+  }
+
+  hr{
+    margin-right: 50vw;
+  }
+
+
   .about-img{
-    display: inline-block;
     height: 20vw;
   }
 
