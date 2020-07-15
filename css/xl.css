@@ -1,0 +1,20 @@
+@media screen and (min-width: 1200px ) {
+
+  body{
+    padding: 5vw 10vw;
+
+  }
+
+
+  .about-img{
+    display: inline-block;
+    height: 20vw;
+  }
+
+  .about-me-paragraph{
+    display: inline-block;
+
+  }
+
+
+}
